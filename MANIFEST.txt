@@ -1,6 +1,6 @@
 LinuxChinesePython 0.1.1 —— 文件清单
 文件数：1976
-总字节：170595335
+总字节：170595356
 
 .gitattributes  7
 .gitignore  20
@@ -1973,7 +1973,7 @@ LICENSE-第三方.txt  60039
 LICENSE-PSF.txt  13804
 LICENSE-SCOPE.md  5835
 LICENSE-TCL-TK.txt  4866
-MANIFEST.txt  100917
+MANIFEST.txt  100938
 NOTICE.txt  5626
 README.md  3969
 share\man\man1\python3.14.1  24984
